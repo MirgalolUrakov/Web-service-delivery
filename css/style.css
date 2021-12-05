@@ -1,0 +1,43 @@
+div.header{
+	display: flex;
+	margin-left: 55rem;
+	
+}
+ul{
+	list-style-type: none;
+}
+body{
+	padding:0px;
+	margin:0px;
+}
+div.bunner-image{
+	float: right;
+	padding-left: 20px;
+	padding-right: 15px;
+}
+div.img{
+	height: 600px;
+     widht: 600px;
+}
+div.bunner-title{
+	float: left;
+	padding-left: 20px;
+	padding-right: 15px;
+}
+html{
+	font-size: 15px;
+	text-color: white;
+}
+P{
+ font-size: 27px;
+}
+button{
+ height: 57px;
+ width: 170px;
+ left: 100px;
+ top: 495px;
+ border-radius: 5px;
+ background: rgba(48, 48, 108, 1);
+ color:white;
+ 
+}
